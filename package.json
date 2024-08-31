@@ -3,7 +3,9 @@
     "version": "1.0.0",
     "main": "index.js",
     "scripts": {
-        "test": "jest"
+        "test": "jest",
+        "ex1": "tsx exercicios/ex1/index.ts",
+        "ex2": "tsx exercicios/ex2/index.ts"
     },
     "type": "module",
     "keywords": [],
